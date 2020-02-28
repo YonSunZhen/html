@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.footer {
+  width: 100%;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  line-height: 1.8;
+  padding: 1rem 0;
+  color: #9e9e9e;
+  background: #f7f7f7;
+  /* margin: 0 calc(-2rem - 15px); */
+}
+
+.site-info {
+  display: block;
+  color: #9e9e9e;
+  font-size: 1.1rem;
+  margin: 0;
+  line-height: 2.4;
+}
+
+.site-info a {
+  color: #1abc9c;
+  border-bottom: 1px solid #1abc9c;
+  text-decoration: none;
+  background-color: transparent;
+}
